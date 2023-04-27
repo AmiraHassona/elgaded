@@ -1,0 +1,9 @@
+.font_rate
+{
+    font-size:40px;
+    transition:all 1s ;
+}
+.font_rate:hover
+{
+    color:darkblue;
+}
